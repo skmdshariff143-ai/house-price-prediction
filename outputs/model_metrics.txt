@@ -1,0 +1,21 @@
+HOUSE PRICE PREDICTION - MODEL EVALUATION METRICS
+==================================================
+
+Linear Regression:
+  - Mean Absolute Error (MAE): $979,679.69
+  - Mean Squared Error (MSE): 1,771,751,116,594.03
+  - Root Mean Squared Error (RMSE): $1,331,071.42
+  - R2 Score: 0.6495
+
+Decision Tree:
+  - Mean Absolute Error (MAE): $1,243,654.52
+  - Mean Squared Error (MSE): 2,737,130,474,262.15
+  - Root Mean Squared Error (RMSE): $1,654,427.54
+  - R2 Score: 0.4585
+
+Random Forest:
+  - Mean Absolute Error (MAE): $1,025,289.68
+  - Mean Squared Error (MSE): 1,963,538,216,518.65
+  - Root Mean Squared Error (RMSE): $1,401,263.08
+  - R2 Score: 0.6115
+
