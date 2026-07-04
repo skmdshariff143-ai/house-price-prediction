@@ -1,20 +1,20 @@
 # House Price Prediction
 
-### CODTECH Data Science Internship - Capstone Project
+### CODTECH Artificial Intelligence Internship - Capstone Project
 
 ---
 
 ## 📋 Project Information
 - **Intern Name:** Shaik Mahammad Shariff
 - **Intern ID:** CITS3997
-- **Domain:** Data Science
+- **Domain:** Artificial Intelligence
 - **Project Duration:** 4 Weeks (July - August 2026)
 - **Mentor/Evaluator:** CODTECH Internship Portal
 
 ---
 
 ## 🔍 Project Overview
-This repository contains a professional and comprehensive end-to-end Machine Learning project developed for the **CODTECH Data Science Internship**. The objective is to build a robust predictive model that estimates residential house prices based on physical attributes and amenities, including area (square feet), bedrooms, bathrooms, stories, parking, and other features.
+This repository contains a professional and comprehensive end-to-end Machine Learning project developed for the **CODTECH Artificial Intelligence Internship**. The objective is to build a robust predictive model that estimates residential house prices based on physical attributes and amenities, including area (square feet), bedrooms, bathrooms, stories, parking, and other features.
 
 The application implements a clean, modular pipeline spanning dataset acquisition, pre-processing, exploratory data analysis (EDA), feature engineering, model training (comparing multiple regression algorithms), model evaluation, and best-model export using `joblib`.
 
